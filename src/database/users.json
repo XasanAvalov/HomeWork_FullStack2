@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "fullName": "Elon 'a",
+    "phoneNumber": "+998901234567",
+    "bio": "this is Elon Musk",
+    "username": "elonmusk",
+    "photo": "32ec86c5f5374147f8b47844cbb96fc4_1690261279633.png",
+    "createdAt": "2023-07-25T05:01:19.634Z"
+  },
+  {
+    "id": 2,
+    "fullName": "Elon tog'a",
+    "phoneNumber": "+998901234565",
+    "bio": "this is Elon Musk",
+    "username": "elonmusk_unofficial",
+    "photo": "32ec86c5f5374147f8b47844cbb96fc4_1690261318449.png",
+    "createdAt": "2023-07-25T05:01:58.450Z"
+  },
+  {
+    "id": 3,
+    "fullName": "Xasan",
+    "phoneNumber": "+998901234566",
+    "bio": "this is Elon Musk",
+    "username": "elonmusk_unofficial1",
+    "photo": "44e15599a89b0ebf8259471bf2fa7824_1690261384180.png",
+    "createdAt": "2023-07-25T05:03:04.182Z"
+  }
+]
